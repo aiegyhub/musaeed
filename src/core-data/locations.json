@@ -1,0 +1,392 @@
+[
+  {
+    "countryCode": "sa",
+    "countryName": "المملكة العربية السعودية",
+    "langCode": "ar-SA",
+    "menuLinks": [
+      { "href": "/sa", "name": "الرئيسية" },
+      { "href": "/sa/riyadh/general-contracting", "name": "مقاولات عامة" },
+      { "href": "/sa/jeddah/water-leak-detection", "name": "كشف تسربات المياه" },
+      { "href": "/sa/dammam/pest-control", "name": "مكافحة حشرات" },
+      { "href": "/sa/khobar/ac-maintenance-repair", "name": "صيانة مكيفات" }
+    ],
+    "footerData": {
+      "about": { "title": "خدمات السعودية", "description": "شريكك الموثوق لجميع الخدمات المنزلية والمقاولات في جميع أنحاء المملكة العربية السعودية." },
+      "quickLinks": { "title": "روابط سريعة", "links": [ { "href": "/about", "name": "من نحن" }, { "href": "/contact", "name": "اتصل بنا" }, { "href": "/privacy-policy", "name": "سياسة الخصوصية" } ] },
+      "services": { "title": "أبرز خدماتنا", "links": [
+          { "href": "/sa/riyadh/water-tank-cleaning", "name": "تنظيف خزانات بالرياض" },
+          { "href": "/sa/jeddah/ac-maintenance-repair", "name": "صيانة مكيفات بجدة" },
+          { "href": "/sa/mecca/home-cleaning", "name": "تنظيف منازل بمكة" },
+          { "href": "/sa/medina/furniture-moving-storage", "name": "نقل اثاث بالمدينة" }
+        ]
+      },
+      "contactInfo": { "title": "تواصل معنا", "phone": "+966114557890", "email": "sa@yourdomain.com", "address": "الرياض، المملكة العربية السعودية" },
+      "socialLinks": [
+        { "name": "twitter", "href": "https://twitter.com/sa_services_co" },
+        { "name": "instagram", "href": "https://instagram.com/sa_services_co" },
+        { "name": "snapchat", "href": "https://snapchat.com/add/sa_services_co" }
+      ],
+      "copyrightText": "© 2025 خدمات السعودية المتكاملة. جميع الحقوق محفوظة."
+    },
+    "cities": [
+      {
+        "slug": "riyadh", "name": "الرياض",
+        "neighborhoods": ["حي الملقا", "حي حطين", "حي النرجس", "حي الياسمين", "حي القيروان", "حي الصحافة", "حي الغدير", "حي الندى", "الدرعية الجديدة", "حي النخيل", "حي المحمدية", "حي الربيع", "حي الوادي", "حي الفلاح", "حي التعاون", "حي الازدهار", "حي الرمال", "حي المونسية", "حي قرطبة", "حي الحمراء", "حي إشبيلية", "حي العليا", "حي السليمانية", "حي الورود", "حي الملك فهد", "حي المصيف", "حي المرسلات", "حي الواحة", "حي غرناطة", "حي الخليج", "حي الروضة", "حي النسيم الشرقي", "حي النسيم الغربي", "حي السويدي", "حي الشفا", "حي البديعة", "حي ظهرة لبن", "حي عرقة", "حي طويق", "حي العزيزية", "حي الدار البيضاء"]
+      },
+      {
+        "slug": "jeddah", "name": "جدة",
+        "neighborhoods": ["حي أبحر الشمالية", "حي أبحر الجنوبية", "حي الشاطئ", "حي المحمدية", "حي السلامة", "حي الخالدية", "حي المرجان", "مشروع ذا فيليدج", "حي الروضة", "حي النهضة", "حي النعيم", "حي البساتين", "حي الحمراء", "حي الأندلس", "حي الزهراء", "حي النسيم", "حي بني مالك", "حي الصفا", "حي المروة", "حي السامر", "حي الحمدانية", "حي الأمير فواز", "حي قويزة", "حي الجامعة", "حي الثغر", "حي بترومين (الخمرة)"]
+      },
+      {
+        "slug": "dammam", "name": "الدمام",
+        "neighborhoods": ["حي الشاطئ الشرقي", "حي الشاطئ الغربي", "حي الفرسان", "حي الريان", "حي المنار", "حي الفيصلية", "حي النور", "حي بدر", "حي أحد", "حي طيبة", "حي الروضة", "حي الزهور", "حي الجامعيين", "حي المحمدية (الدمام)", "حي النخيل (الدمام)", "حي العدامة", "حي المزروعية"]
+      },
+      {
+        "slug": "khobar", "name": "الخبر",
+        "neighborhoods": ["حي العليا", "حي الراكة الجنوبية", "حي الراكة الشمالية", "حي الجسر", "حي قرطبة", "حي الحزام الذهبي", "حي الحزام الأخضر", "حي اليرموك", "حي الخزامى", "حي العقربية", "مدينة العمال", "حي الثقبة", "حي البندرية", "حي الأندلس (الخبر)"]
+      },
+      { "slug": "mecca", "name": "مكة المكرمة", "neighborhoods": ["حي العزيزية", "حي الشوقية", "حي العوالي", "حي النسيم", "حي الزاهر", "حي الرصيفة", "حي الكعكية", "حي الشرائع", "حي بطحاء قريش", "حي ولي العهد"] },
+      { "slug": "medina", "name": "المدينة المنورة", "neighborhoods": ["حي سلطانة", "حي العزيزية", "حي قباء", "حي الخالدية", "حي المطار", "حي الدفاع", "حي الفيصل", "حي العريض", "حي الحزام"] },
+      { "slug": "taif", "name": "الطائف", "neighborhoods": ["حي الشهار", "حي القيم", "حي الوسام", "حي الحلقة الشرقية", "حي الحلقة الغربية", "حي القمرية", "حي جبرة"] },
+      { "slug": "abha", "name": "أبها", "neighborhoods": ["حي الموظفين", "حي السودة", "حي شمسان", "حي المنسك", "حي الضباب", "حي النميص", "حي سر ثبته"] },
+      { "slug": "khamis-mushait", "name": "خميس مشيط", "neighborhoods": ["حي الرصراص", "حي الضيافة", "حي الخالدية", "حي شباعة", "حي تارة", "حي الوسام (خميس مشيط)"] },
+      { "slug": "buraydah", "name": "بريدة", "neighborhoods": ["حي الريان", "حي المنتزه", "حي الرفيعة", "حي الصفراء", "حي البشر", "حي النقع"] },
+      { "slug": "al-ahsa", "name": "الأحساء", "neighborhoods": ["الهفوف (حي السلمانية، حي الخالدية، حي محاسن)", "المبرز (حي محاسن أرامكو، حي الراشدية)", "العيون", "الجفر"] },
+      { "slug": "qatif", "name": "القطيف", "neighborhoods": ["سيهات", "صفوى", "تاروت (الربيعية، سنابس)", "حي الناصرة", "حي الشاطئ (القطيف)", "العوامية", "القديح"] }
+    ],
+    "services": [
+      { "slug": "general-contracting", "name_ar": "مقاولات عامة بناء وإنشاء فلل وعمائر", "virtualPhoneNumbers": ["+1-555-0113"], "testimonials": [
+          {"name": "شركة التطوير العقاري", "city": "الرياض", "rating": 5, "quote": "تعاملنا معهم في بناء مجمع سكني في حي النرجس، وكانوا على قدر المسؤولية من حيث الجودة والمواعيد."}
+      ] },
+      { "slug": "renovation-finishing", "name_ar": "ترميم وتشطيبات متكاملة للشقق والفلل والمحلات", "virtualPhoneNumbers": ["+1-555-0114"], "testimonials": [
+          {"name": "أبو خالد", "city": "جدة", "rating": 5, "quote": "أفضل شركة تشطيبات في جدة، قاموا بتشطيب شقتي في حي السلامة بدقة واحترافية عالية."}
+      ] },
+      { "slug": "water-leak-detection", "name_ar": "كشف تسربات المياه إلكترونياً بدون تكسير مع الإصلاح", "virtualPhoneNumbers": ["+1-555-0109"], "testimonials": [
+          {"name": "أم صالح", "city": "الدمام", "rating": 5, "quote": "كانت فاتورة المياه مرتفعة بشكل كبير، شركة كشف تسربات المياه في الدمام اكتشفت المشكلة في حي الشاطئ الشرقي وأصلحتها بسرعة."}
+      ] },
+      { "slug": "waterproofing-insulation", "name_ar": "عزل أسطح وخزانات وحمامات (مائي، حراري، فوم)", "virtualPhoneNumbers": ["+1-555-0210"], "testimonials": [
+          {"name": "محمد العتيبي", "city": "الخبر", "rating": 5, "quote": "خدمة عزل أسطح ممتازة في حي العليا، لاحظت انخفاض كبير في استهلاك المكيفات."}
+      ] },
+      { "slug": "home-cleaning", "name_ar": "تنظيف منازل وفلل وشقق وقصور (يومي، أسبوعي، شهري)", "virtualPhoneNumbers": ["+1-555-0211"], "testimonials": [
+          {"name": "سارة عبدالله", "city": "الرياض", "rating": 5, "quote": "أفضل شركة تنظيف منازل بالرياض، نظفوا الفيلا في حي حطين بشكل كامل ومتقن."}
+      ] },
+      { "slug": "ac-maintenance-repair", "name_ar": "صيانة وتصليح وتركيب مكيفات (سبليت، مركزي، شباك، دولابي)", "virtualPhoneNumbers": ["+1-555-0212"], "testimonials": [
+          {"name": "أحمد المالكي", "city": "جدة", "rating": 4, "quote": "فني صيانة مكيفات محترف في حي المحمدية، أصلح المكيف بسرعة وكفاءة."}
+      ] },
+      { "slug": "pest-control", "name_ar": "مكافحة جميع أنواع الحشرات والقوارض (نمل أبيض، صراصير، بق الفراش، فئران)", "virtualPhoneNumbers": ["+1-555-0213"], "testimonials": [
+          {"name": "عبدالرحمن الشهري", "city": "أبها", "rating": 5, "quote": "شركة مكافحة حشرات موثوقة في أبها، تخلصت من مشكلة النمل الأبيض في حي الموظفين."}
+      ] },
+      { "slug": "furniture-moving-storage", "name_ar": "نقل وتخزين الأثاث والعفش مع الفك والتركيب والتغليف", "virtualPhoneNumbers": ["+1-555-0214"], "testimonials": [] },
+      { "slug": "water-tank-cleaning", "name_ar": "تنظيف وتعقيم خزانات المياه الأرضية والعلوية", "virtualPhoneNumbers": ["+1-555-0215"], "testimonials": [] },
+      { "slug": "electrical-works", "name_ar": "أعمال كهربائية (تأسيس، تمديد، إصلاح أعطال، تركيب إضاءة)", "virtualPhoneNumbers": ["+1-555-0216"], "testimonials": [] },
+      { "slug": "plumbing-works", "name_ar": "أعمال سباكة (تأسيس، تركيب أدوات صحية، إصلاح تسربات)", "virtualPhoneNumbers": ["+1-555-0217"], "testimonials": [] },
+      { "slug": "painting-wallpaper", "name_ar": "أعمال دهانات داخلية وخارجية وورق جدران وديكورات", "virtualPhoneNumbers": ["+1-555-0218"], "testimonials": [] },
+      { "slug": "swimming-pool-services", "name_ar": "إنشاء وصيانة وتنظيف المسابح والنوافير", "virtualPhoneNumbers": ["+1-555-0219"], "testimonials": [] },
+      { "slug": "landscaping-garden-design", "name_ar": "تصميم وتنسيق وصيانة الحدائق وتركيب الثيل الصناعي والطبيعي", "virtualPhoneNumbers": ["+1-555-0220"], "testimonials": [] },
+      { "slug": "restaurant-hood-cleaning", "name_ar": "تنظيف مداخن وهود المطاعم والفنادق مع شهادة معتمدة", "virtualPhoneNumbers": ["+1-555-0221"], "testimonials": [] }
+    ]
+  },
+  {
+    "countryCode": "ae",
+    "countryName": "الإمارات العربية المتحدة",
+    "langCode": "ar-AE",
+    "menuLinks": [
+      { "href": "/ae", "name": "الرئيسية" },
+      { "href": "/ae/dubai/ac-maintenance-repair", "name": "صيانة تكييف" },
+      { "href": "/ae/abu-dhabi/painting-decor", "name": "دهانات وديكور" },
+      { "href": "/ae/sharjah/home-cleaning", "name": "تنظيف منازل" }
+    ],
+    "footerData": {
+      "about": { "title": "خدمات الإمارات", "description": "خدمات احترافية سريعة وموثوقة في جميع إمارات الدولة." },
+      "quickLinks": { "title": "روابط مهمة", "links": [ { "href": "/about", "name": "عنا" }, { "href": "/contact", "name": "اتصل بنا" }, { "href": "/privacy-policy", "name": "الخصوصية" } ] },
+      "services": { "title": "خدماتنا المتميزة", "links": [
+          { "href": "/ae/dubai/deep-cleaning", "name": "تنظيف عميق في دبي" },
+          { "href": "/ae/abu-dhabi/villa-painting", "name": "صبغ فلل في أبوظبي" },
+          { "href": "/ae/sharjah/pest-control-services", "name": "مكافحة حشرات بالشارقة" }
+        ]
+      },
+      "contactInfo": { "title": "معلومات الاتصال", "phone": "+97141234567", "email": "ae@yourdomain.com", "address": "دبي، الإمارات العربية المتحدة" },
+      "socialLinks": [
+        { "name": "instagram", "href": "https://instagram.com/uae_services_pro" },
+        { "name": "linkedin", "href": "https://linkedin.com/company/uae_services_pro" },
+        { "name": "facebook", "href": "https://facebook.com/uae_services_pro" }
+      ],
+      "copyrightText": "© 2025 خدمات الإمارات الشاملة. جميع الحقوق محفوظة."
+    },
+    "cities": [
+      {
+        "slug": "dubai", "name": "دبي",
+        "neighborhoods": ["Dubai Marina", "Downtown Dubai", "Palm Jumeirah", "JVC (Jumeirah Village Circle)", "Business Bay", "Dubai Hills Estate", "JLT (Jumeirah Lakes Towers)", "Al Barsha (1, 2, 3, South)", "Mirdif (Uptown, Shorooq, Ghoroob)", "Deira (Al Rigga, Al Muraqqabat, Port Saeed)", "Bur Dubai (Al Mankhool, Al Karama, Oud Metha)", "Arabian Ranches (1, 2, 3)", "Motor City", "Sports City", "IMPZ (Dubai Production City)", "Discovery Gardens", "The Springs", "The Meadows", "Emirates Hills", "Umm Suqeim (1, 2, 3)", "Al Safa (1, 2)", "Jumeirah (1, 2, 3)", "Al Warqa'a", "Nad Al Sheba", "Silicon Oasis"]
+      },
+      {
+        "slug": "abu-dhabi", "name": "أبوظبي",
+        "neighborhoods": ["Al Reem Island (Shams, Marina Square, City of Lights)", "Saadiyat Island (Cultural District, Beach District)", "Khalifa City A", "Khalifa City B (Shakhbout City)", "Yas Island (Yas Acres, West Yas)", "Al Raha Beach (Al Muneera, Al Zeina, Al Bandar)", "Al Maryah Island", "Mohamed Bin Zayed City (MBZ City)", "Corniche Area", "Al Khalidiyah", "Al Mushrif", "Baniyas", "Al Shamkha", "Al Falah", "Al Bateen", "Tourist Club Area (Al Zahiyah)", "Madinat Zayed"]
+      },
+      { "slug": "sharjah", "name": "الشارقة", "neighborhoods": ["Al Majaz (1, 2, 3)", "Al Nahda (Sharjah)", "Al Qasimia", "Al Taawun", "Muwaileh (Commercial & Residential)", "Al Khan", "University City", "Al Mamzar (Sharjah side)", "Al Rahmaniya", "Al Suyoh", "Al Jazzat"] },
+      { "slug": "al-ain", "name": "العين", "neighborhoods": ["Al Jimi", "Town Centre (Central District)", "Al Hili", "Falaj Hazzaa", "Asharej", "Al Muwaiji", "Al Yahar", "Zakher"] },
+      { "slug": "ajman", "name": "عجمان", "neighborhoods": ["Al Rashidiya (1, 2, 3)", "Al Nuaimiya (1, 2, 3)", "Ajman Downtown", "Al Jurf (1, 2, Industrial)", "Emirates City", "Al Mowaihat", "Al Hamidiya"] },
+      { "slug": "ras-al-khaimah", "name": "رأس الخيمة", "neighborhoods": ["Al Hamra Village", "Mina Al Arab", "Al Nakheel", "Al Dhait (North & South)", "Khuzam", "Al Jazeera Al Hamra"] },
+      { "slug": "fujairah", "name": "الفجيرة", "neighborhoods": ["Fujairah City Centre Area", "Sakmkm", "Miramar Al Aqah", "Dibba Al-Fujairah", "Qidfa"] }
+    ],
+    "services": [
+        { "slug": "home-cleaning", "name_ar": "تنظيف المنازل والفلل والشقق (عقود دورية وخدمة مرة واحدة)", "virtualPhoneNumbers": ["+1-555-0120"], "testimonials": [
+            {"name": "Ms. Emily Carter", "city": "Dubai Marina", "rating": 5, "quote": "Fantastic home cleaning service! My apartment in Dubai Marina always looks immaculate. The team is professional and trustworthy."}
+        ] },
+        { "slug": "deep-cleaning", "name_ar": "خدمات تنظيف عميق وشامل للمنازل والمكاتب", "virtualPhoneNumbers": ["+1-555-0225"], "testimonials": [
+            {"name": "السيد/ عبدالله المرزوقي", "city": "أبوظبي", "rating": 5, "quote": "خدمة تنظيف عميق ممتازة لفيلا في مدينة خليفة أ. كل زاوية كانت نظيفة ومعقمة. شكراً جزيلاً."}
+        ] },
+        { "slug": "ac-maintenance-repair", "name_ar": "صيانة وتصليح وتنظيف مكيفات (سبليت، مركزي، دكت، شيلر)", "virtualPhoneNumbers": ["+1-555-0121"], "testimonials": [
+            {"name": "Mr. David Miller", "city": "JVC, Dubai", "rating": 5, "quote": "Prompt and efficient AC repair service. The technician identified the issue quickly and fixed it. Highly recommended for JVC residents."}
+        ] },
+        { "slug": "painting-decor", "name_ar": "دهانات وديكورات داخلية وخارجية فاخرة وورق جدران", "virtualPhoneNumbers": ["+1-555-0123"], "testimonials": [
+            {"name": "السيدة/ فاطمة القاسمي", "city": "الشارقة", "rating": 4, "quote": "قاموا بطلاء الشقة في المجاز بشكل جيد. الألوان كانت كما طلبت والعمال كانوا محترمين."}
+        ] },
+        { "slug": "plumbing-services", "name_ar": "أعمال سباكة وصحية (تركيب، إصلاح تسربات، تسليك مجاري)", "virtualPhoneNumbers": ["+1-555-0226"], "testimonials": [] },
+        { "slug": "electrical-services", "name_ar": "خدمات كهربائية (تمديدات، إصلاحات، تركيب إضاءة و DEWA approvals)", "virtualPhoneNumbers": ["+1-555-0227"], "testimonials": [] },
+        { "slug": "handyman-services", "name_ar": "خدمات فني صيانة عامة (نجارة، تركيب ستائر ورفوف، تجميع أثاث إيكيا)", "virtualPhoneNumbers": ["+1-555-0228"], "testimonials": [] },
+        { "slug": "pest-control-services", "name_ar": "مكافحة حشرات وقوارض (صراصير، نمل، بق الفراش، فئران) معتمد من البلدية", "virtualPhoneNumbers": ["+1-555-0229"], "testimonials": [] },
+        { "slug": "appliance-repair", "name_ar": "صيانة الأجهزة المنزلية (غسالات، ثلاجات، أفران، غسالات صحون)", "virtualPhoneNumbers": ["+1-555-0230"], "testimonials": [] },
+        { "slug": "landscaping-garden-maintenance", "name_ar": "تصميم وتنسيق وصيانة حدائق وتركيب عشب صناعي وطبيعي", "virtualPhoneNumbers": ["+1-555-0231"], "testimonials": [] },
+        { "slug": "swimming-pool-cleaning-maintenance", "name_ar": "تنظيف وصيانة المسابح ومعالجة المياه", "virtualPhoneNumbers": ["+1-555-0232"], "testimonials": [] },
+        { "slug": "marble-polishing-crystallization", "name_ar": "جلي وتلميع وكريستال للرخام والجرانيت والبلاط", "virtualPhoneNumbers": ["+1-555-0233"], "testimonials": [] },
+        { "slug": "carpentry-joinery-services", "name_ar": "أعمال نجارة وتفصيل وتصنيع وإصلاح أثاث خشبي وأبواب", "virtualPhoneNumbers": ["+1-555-0234"], "testimonials": [] },
+        { "slug": "move-in-out-painting-cleaning", "name_ar": "خدمات التنظيف والصبغ عند الانتقال (دخول أو خروج من السكن)", "virtualPhoneNumbers": ["+1-555-0235"], "testimonials": [] },
+        { "slug": "water-proofing-leak-repair", "name_ar": "عزل مائي للأسطح والحمامات وإصلاح تسربات المياه", "virtualPhoneNumbers": ["+1-555-0236"], "testimonials": [] }
+    ]
+  },
+  {
+    "countryCode": "kw",
+    "countryName": "الكويت",
+    "langCode": "ar-KW",
+    "menuLinks": [
+      { "href": "/kw", "name": "الرئيسية" },
+      { "href": "/kw/kuwait-city/pest-control", "name": "مكافحة حشرات" },
+      { "href": "/kw/salmiya/plumbing-works", "name": "صيانة صحية" },
+      { "href": "/kw/hawally/ac-maintenance-repair", "name": "تصليح تكييف" },
+      { "href": "/kw/farwaniya/satellite-technician", "name": "فني ستلايت" }
+    ],
+    "footerData": {
+      "about": { "title": "خدمات الكويت", "description": "أفضل الشركات لخدمات الصيانة والنظافة والمقاولات في جميع محافظات ومناطق الكويت." },
+      "quickLinks": { "title": "روابط مهمة", "links": [ { "href": "/about", "name": "من نحن" }, { "href": "/contact", "name": "اتصل بنا" }, { "href": "/privacy-policy", "name": "سياسة الخصوصية" } ] },
+      "services": { "title": "خدماتنا الأساسية", "links": [
+          { "href": "/kw/kuwait-city/electrical-works", "name": "كهربائي منازل بالعاصمة" },
+          { "href": "/kw/hawally/cctv-installation", "name": "تركيب كاميرات بحولي" },
+          { "href": "/kw/farwaniya/sofa-carpet-steam-cleaning", "name": "تنظيف كنب بالفروانية" },
+          { "href": "/kw/ahmadi/water-tank-cleaning-kuwait", "name": "تنظيف خزانات بالأحمدي" }
+        ]
+      },
+      "contactInfo": { "title": "معلومات الاتصال", "phone": "+9651800000", "email": "kw@yourdomain.com", "address": "مدينة الكويت، دولة الكويت" },
+      "socialLinks": [
+        { "name": "instagram", "href": "https://instagram.com/kw_services_co" },
+        { "name": "twitter", "href": "https://twitter.com/kw_services_co" },
+        { "name": "snapchat", "href": "https://snapchat.com/add/kw_services_co" }
+      ],
+      "copyrightText": "© 2025 خدمات الكويت المتكاملة. جميع الحقوق محفوظة."
+    },
+    "cities": [
+      {
+        "slug": "kuwait-city", "name": "مدينة الكويت (محافظة العاصمة)",
+        "neighborhoods": ["ضاحية عبدالله السالم", "الشويخ السكنية", "الشويخ الصناعية", "اليرموك", "قرطبة", "السرة", "الروضة", "النزهة", "الفيحاء", "كيفان", "الدعية", "المنصورية", "القادسية", "بنيد القار", "الدسمة", "شرق", "الصالحية", "المرقاب", "دسمان", "جابر الأحمد", "غرناطة", "النهضة", "الصليبخات والدوحة"]
+      },
+      {
+        "slug": "hawally-governorate", "name": "محافظة حولي",
+        "neighborhoods": ["حولي", "السالمية", "الرميثية", "الجابرية", "مشرف", "بيان", "سلوى", "ميدان حولي", "النقرة", "الشعب (البحري والسكني)", "جنوب السرة (الزهراء، الشهداء، حطين، السلام، الصديق)", "البدع", "الضجيج (جزء منها تجاري)" ]
+      },
+      {
+        "slug": "farwaniya-governorate", "name": "محافظة الفروانية",
+        "neighborhoods": ["الفروانية", "خيطان", "الأندلس", "الرابية", "الرحاب", "العارضية السكنية", "العارضية الحرفية (الصناعية)", "صباح الناصر", "جليب الشيوخ", "اشبيلية", "عبدالله المبارك (غرب الجليب)", "الري", "الضجيج (جزء منها تجاري وصناعي)"]
+      },
+      {
+        "slug": "ahmadi-governorate", "name": "محافظة الأحمدي",
+        "neighborhoods": ["الأحمدي", "الفحيحيل", "المنقف", "المهبولة", "أبو حليفة", "الصباحية", "الرقة", "هدية", "الظهر", "جابر العلي", "العقيلة", "علي صباح السالم (أم الهيمان)", "الوفرة", "الخيران السكنية", "ميناء عبدالله", "الشعيبة الصناعية", "الزور", "مدينة صباح الأحمد السكنية", "مدينة صباح الأحمد البحرية"]
+      },
+      {
+        "slug": "jahra-governorate", "name": "محافظة الجهراء",
+        "neighborhoods": ["الجهراء القديمة", "الجهراء الجديدة", "النسيم", "العيون", "القصر", "تيماء", "الواحة", "سعد العبدالله", "العبدلي", "الصليبية", "النعيم", "مدينة المطلاع السكنية (قيد الإنشاء والتطوير)"]
+      },
+      {
+        "slug": "mubarak-al-kabeer-governorate", "name": "محافظة مبارك الكبير",
+        "neighborhoods": ["مبارك الكبير", "صباح السالم", "العدان", "القصور", "القرين", "المسايل", "أبو فطيرة", "الفنيطيس", "صبحان الصناعية", "غرب أبو فطيرة الحرفية"]
+      }
+    ],
+    "services": [
+        { "slug": "home-apartment-cleaning", "name_ar": "تنظيف شقق ومنازل وفلل وديوانيات", "virtualPhoneNumbers": ["+1-555-0180"], "testimonials": [
+            {"name": "أم ناصر الهاجري", "city": "السالمية", "rating": 5, "quote": "شركة تنظيف شقق ممتازة في السالمية، التزام بالمواعيد ونظافة فائقة."}
+        ] },
+        { "slug": "sofa-carpet-steam-cleaning", "name_ar": "تنظيف سجاد وكنب ومفروشات وزل بالبخار", "virtualPhoneNumbers": ["+1-555-0130"], "testimonials": [
+            {"name": "أبو فهد العازمي", "city": "صباح السالم", "rating": 5, "quote": "تنظيف كنب وديوانية بالبخار شغل احترافي، رجعوا جدد. شكراً لكم."}
+        ] },
+        { "slug": "plumbing-works", "name_ar": "أعمال صحية وسباكة (تمديدات، تركيب خلاطات ومضخات، كشف تسربات، تسليك مجاري)", "virtualPhoneNumbers": ["+1-555-0131"], "testimonials": [
+            {"name": "محمد الشمري", "city": "الفروانية", "rating": 5, "quote": "فني صحي ممتاز في الفروانية، حل مشكلة انسداد المجاري بسرعة وبأمانة."}
+        ] },
+        { "slug": "electrical-works", "name_ar": "فني كهربائي منازل (تمديدات، إصلاح شورت، تركيب ثريات وإضاءة، فحص كهرباء)", "virtualPhoneNumbers": ["+1-555-0132"], "testimonials": [
+            {"name": "خالد المطوع", "city": "مدينة الكويت", "rating": 4, "quote": "كهربائي جيد في ضاحية عبدالله السالم، قام بتركيب الإضاءة الجديدة بشكل صحيح."}
+        ] },
+        { "slug": "ac-maintenance-repair", "name_ar": "صيانة وتصليح وغسيل وتعبئة فريون مكيفات (مركزي، سبليت، وحدات، كاسيت)", "virtualPhoneNumbers": ["+1-555-0133"], "testimonials": [
+            {"name": "بدر العنزي", "city": "الجهراء", "rating": 5, "quote": "أفضل فني تكييف في الجهراء، صلح المكيف المركزي وكان التبريد ممتاز بعده."}
+        ] },
+        { "slug": "pest-control", "name_ar": "مكافحة حشرات وقوارض وبق الفراش والنمل الأبيض مع الكفالة", "virtualPhoneNumbers": ["+1-555-0134"], "testimonials": [
+            {"name": "لطيفة الكندري", "city": "حولي", "rating": 5, "quote": "شركة مكافحة حشرات موثوقة في حولي، تخلصت من الصراصير والنمل تماماً."}
+        ] },
+        { "slug": "satellite-technician", "name_ar": "فني ستلايت (تركيب، برمجة، صيانة، اشتراكات IPTV)", "virtualPhoneNumbers": ["+1-555-0181"], "testimonials": [] },
+        { "slug": "carpentry-door-repair", "name_ar": "نجار (فتح أقفال، تصليح أبواب وخزائن، تفصيل أثاث، تركيب أرفف)", "virtualPhoneNumbers": ["+1-555-0182"], "testimonials": [] },
+        { "slug": "painting-decor-services", "name_ar": "صبغ وورق جدران وديكورات جبسية وأصباغ إيطالية", "virtualPhoneNumbers": ["+1-555-0183"], "testimonials": [] },
+        { "slug": "water-tank-cleaning-kuwait", "name_ar": "تنظيف وتعقيم خزانات المياه (التناكر) العلوية والسفلية", "virtualPhoneNumbers": ["+1-555-0184"], "testimonials": [] },
+        { "slug": "cctv-installation", "name_ar": "تركيب كاميرات مراقبة وأنظمة أمنية للمنازل والشركات", "virtualPhoneNumbers": ["+1-555-0185"], "testimonials": [] },
+        { "slug": "appliance-repair-kuwait", "name_ar": "تصليح أجهزة كهربائية (غسالات، ثلاجات، طباخات، نشافات، أفران)", "virtualPhoneNumbers": ["+1-555-0186"], "testimonials": [] },
+        { "slug": "furniture-moving-kuwait", "name_ar": "نقل عفش وأثاث مع التغليف والفك والتركيب داخل وخارج الكويت", "virtualPhoneNumbers": ["+1-555-0187"], "testimonials": [] },
+        { "slug": "waterproofing-roof-insulation-kuwait", "name_ar": "عزل أسطح وجدران وحمامات (مائي وحراري وصوتي) وعزل جيتاروف", "virtualPhoneNumbers": ["+1-555-0188"], "testimonials": [] },
+        { "slug": "aluminum-shutter-works", "name_ar": "أعمال ألمنيوم وشتر وشبابيك وأبواب ومطابخ ألمنيوم", "virtualPhoneNumbers": ["+1-555-0189"], "testimonials": [] },
+        { "slug": "general-contracting-kuwait", "name_ar": "مقاولات عامة (بناء، ترميم، تشطيب، توسعة، ملاحق)", "virtualPhoneNumbers": ["+1-555-0190"], "testimonials": [] },
+        { "slug": "gypsum-board-partition-kuwait", "name_ar": "أعمال جبس بورد وقواطع وديكورات أسقف وجدران", "virtualPhoneNumbers": ["+1-555-0240"], "testimonials": [] },
+        { "slug": "glass-mirror-installation-kuwait", "name_ar": "تركيب زجاج ومرايا وشاور بوكس وسيكوريت", "virtualPhoneNumbers": ["+1-555-0241"], "testimonials": [] }
+    ]
+  },
+  {
+    "countryCode": "eg",
+    "countryName": "مصر",
+    "langCode": "ar-EG",
+    "menuLinks": [
+      { "href": "/eg", "name": "الرئيسية" },
+      { "href": "/eg/new-cairo/renovation-finishing", "name": "تشطيبات وديكور" },
+      { "href": "/eg/sheikh-zayed/landscaping-garden-design", "name": "تنسيق حدائق" },
+      { "href": "/eg/6th-october/appliance-repair-egypt", "name": "صيانة أجهزة" }
+    ],
+    "footerData": {
+      "about": { "title": "خدمات مصر", "description": "حلول متكاملة للخدمات المنزلية والتشطيبات والصيانة في القاهرة الكبرى والمدن الجديدة." },
+      "quickLinks": { "title": "روابط سريعة", "links": [ { "href": "/about", "name": "عن الشركة" }, { "href": "/contact", "name": "للتواصل معنا" }, { "href": "/privacy-policy", "name": "سياسة الخصوصية" } ] },
+      "services": { "title": "أهم خدماتنا", "links": [
+          { "href": "/eg/new-cairo/apartment-cleaning", "name": "تنظيف شقق بالتجمع" },
+          { "href": "/eg/maadi/plumbing-works-egypt", "name": "سباكة بالمعادي" },
+          { "href": "/eg/alexandria/pest-control-egypt", "name": "مكافحة حشرات بالاسكندرية" }
+        ]
+      },
+      "contactInfo": { "title": "بيانات الاتصال", "phone": "+201001234567", "email": "eg@yourdomain.com", "address": "القاهرة، جمهورية مصر العربية" },
+      "socialLinks": [
+        { "name": "facebook", "href": "https://facebook.com/eg_services_pro" },
+        { "name": "youtube", "href": "https://youtube.com/c/eg_services_pro" },
+        { "name": "instagram", "href": "https://instagram.com/eg_services_pro" }
+      ],
+      "copyrightText": "© 2025 خدمات مصر الشاملة. كافة الحقوق محفوظة."
+    },
+    "cities": [
+      {
+        "slug": "new-cairo", "name": "القاهرة الجديدة",
+        "neighborhoods": [
+            "التجمع الخامس (النرجس، الياسمين، البنفسج، جنوب الأكاديمية، غرب الجولف، الشويفات، المستثمرين الشمالية، المستثمرين الجنوبية، بيت الوطن)",
+            "التجمع الأول",
+            "الرحاب (المرحلة الأولى، الثانية، الثالثة)",
+            "مدينتي (B1, B2, B3, B6, B8, B10, B11)",
+            "الشروق (الأحياء من الأول إلى التاسع، المنطقة السكنية، إسكان الشباب)",
+            "المستقبل سيتي",
+            "هليوبوليس الجديدة"
+        ]
+      },
+      {
+        "slug": "6th-october", "name": "مدينة السادس من أكتوبر",
+        "neighborhoods": [
+            "الحي المتميز", "غرب سوميد", "الأحياء (الأول، الثاني، الثالث، الرابع، الخامس، السادس، السابع، الثامن، التاسع، العاشر، الحادي عشر، الثاني عشر)",
+            "المنطقة الصناعية (الأولى حتى السادسة)",
+            "حدائق أكتوبر (كمبوند دجلة جاردنز، كمبوند المنتزه، كمبوند بداية، الإسكان الاجتماعي)",
+            "أكتوبر الجديدة"
+        ]
+      },
+      {
+        "slug": "sheikh-zayed", "name": "مدينة الشيخ زايد",
+        "neighborhoods": [
+            "الأحياء (الأول، الثاني، الثالث، الرابع، الخامس، السادس، السابع، الثامن، التاسع، العاشر، الحادي عشر، الثاني عشر، الثالث عشر، الرابع عشر، الخامس عشر، السادس عشر)",
+            "كمبوند بيفرلي هيلز", "كمبوند الربوة", "كمبوند الكرمة (1، 2، 3، 4)", "كمبوند سوديك ويست (ألجريا، ويستاون، فورتي ويست)", "كمبوند زايد 2000", "كمبوند الياسمين", "كمبوند رويال سيتي"
+        ]
+      },
+      {
+        "slug": "cairo-central", "name": "وسط وشرق القاهرة",
+        "neighborhoods": [
+            "مصر الجديدة (الكوربة، روكسي، ميدان هليوبوليس، أرض الجولف، تريومف، النزهة الجديدة، شيراتون المطار، مساكن شيراتون)",
+            "مدينة نصر (الحي السادس، السابع، الثامن، التاسع، العاشر، المنطقة الأولى، السفارات، عباس العقاد، مكرم عبيد، مصطفى النحاس، طريق النصر، رابعة العدوية، الواحة، زهراء مدينة نصر)",
+            "وسط البلد (التحرير، عابدين، باب اللوق، جاردن سيتي، قصر النيل، المنيرة)",
+            "الزمالك", "المنيل", "مصر القديمة"
+          ]
+      },
+      {
+        "slug": "giza-central", "name": "الجيزة (المناطق المركزية)",
+        "neighborhoods": [
+            "المهندسين (جامعة الدول العربية، شارع سوريا، شارع لبنان، ميدان لبنان، أحمد عرابي)",
+            "الدقي (شارع التحرير، شارع مصدق، شارع الدقي)",
+            "العجوزة (كورنيش النيل، شارع النيل)",
+            "الهرم (شارع الهرم الرئيسي، المريوطية، اللبيني، نصر الدين، التعاون، الكوم الأخضر)",
+            "فيصل (شارع فيصل الرئيسي، العشرين، الثلاثيني، المطبعة، الطوابق، الملكة)",
+            "العمرانية", "الطالبية", "بولاق الدكرور", "إمبابة", "الوراق"
+        ]
+      },
+      {
+        "slug": "south-cairo", "name": "جنوب القاهرة",
+        "neighborhoods": [
+            "المعادي (المعادي الجديدة، المعادي القديمة، سرايات المعادي، دجلة، زهراء المعادي، أوتوستراد المعادي، كورنيش المعادي، حدائق المعادي)",
+            "حلوان (عين حلوان، المشروع الأمريكي، عرب غنيم)",
+            "15 مايو"
+          ]
+      },
+      {
+        "slug": "qalyubia-greater-cairo", "name": "القليوبية (جزء من القاهرة الكبرى)",
+        "neighborhoods": [
+            "شبرا الخيمة (بهتيم، شبرا البلد، مسطرد)",
+            "العبور (الحي الأول حتى التاسع، منطقة الجولف، إسكان الشباب، المنطقة الصناعية)",
+            "الخانكة", "قليوب البلد"
+          ]
+      },
+      {
+        "slug": "new-administrative-capital", "name": "العاصمة الإدارية الجديدة",
+        "neighborhoods": [
+            "الحي السكني R3 (كابيتال ريزيدانس)",
+            "الحي السكني R5 (جاردن سيتي الجديدة - نيو جاردن سيتي)",
+            "الحي السكني R7 (كمبوند البوسكو، كمبوند ميدتاون سكاي، كمبوند المقصد، كمبوند سيناريو)",
+            "الحي الحكومي", "منطقة الأعمال المركزية (CBD - البرج الأيقوني)", "النهر الأخضر"
+          ]
+      },
+      {
+        "slug": "alexandria", "name": "الإسكندرية",
+        "neighborhoods": [
+            "وسط البلد (محطة الرمل، المنشية، كامب شيزار، الإبراهيمية، الأزاريطة)",
+            "سموحة", "سيدي جابر", "سبورتنج", "رشدي", "كفر عبده", "زيزينيا", "جليم", "ستانلي", "لوران",
+            "ميامي", "المندرة (قبلي وبحري)", "العصافرة", "سيدي بشر (قبلي وبحري)",
+            "العجمي (البيطاش، الهانوفيل، الكيلو 21، الدخيلة)",
+            "برج العرب الجديدة", "أبيس", "كينج مريوط",
+            "الساحل الشمالي (مراسي، هاسيندا، سيدي كرير، سيدي عبدالرحمن - كوجهات موسمية ذات طلب عالي)"
+        ]
+      }
+    ],
+    "services": [
+        { "slug": "renovation-finishing", "name_ar": "تشطيبات شقق وفلل وعيادات ومحلات تجارية متكاملة (باقات تشطيب سوبر لوكس وفاخر)", "virtualPhoneNumbers": ["+1-555-0140"], "testimonials": [
+            {"name": "المهندس/ أحمد الشناوي", "city": "التجمع الخامس، القاهرة الجديدة", "rating": 5, "quote": "شركة تشطيبات محترفة بمعنى الكلمة، استلمت شقتي في التجمع الخامس بأعلى جودة وفي الموعد المحدد. أنصح بهم بشدة."}
+        ] },
+        { "slug": "interior-exterior-design", "name_ar": "تصميم داخلي وخارجي وديكور (مودرن، كلاسيك، نيو كلاسيك، الترا مودرن)", "virtualPhoneNumbers": ["+1-555-0191"], "testimonials": [] },
+        { "slug": "painting-decor-egypt", "name_ar": "دهانات وديكورات حديثة وجبس بورد وأسقف معلقة وورق حائط 3D", "virtualPhoneNumbers": ["+1-555-0141"], "testimonials": [
+            {"name": "مدام/ ريهام فؤاد", "city": "الشيخ زايد", "rating": 5, "quote": "أعمال الدهانات والديكور في فيلتي بالشيخ زايد كانت تحفة فنية. فريق عمل مبدع ونظيف."}
+        ] },
+        { "slug": "apartment-villa-cleaning", "name_ar": "تنظيف شقق وفلل وقصور مفروشة وبعد التشطيب وتعقيم", "virtualPhoneNumbers": ["+1-555-0143"], "testimonials": [
+            {"name": "أستاذ/ عمرو (اسم مستعار لعميل بمدينتي)", "city": "مدينتي", "rating": 5, "quote": "خدمة تنظيف فيلا في مدينتي ممتازة جداً، اهتمام بأدق التفاصيل والنتيجة مبهرة."}
+        ] },
+        { "slug": "upholstery-carpet-cleaning-egypt", "name_ar": "تنظيف أنتريهات وصالونات وسجاد وموكيت وستائر بالبخار في مكانك", "virtualPhoneNumbers": ["+1-555-0192"], "testimonials": [] },
+        { "slug": "appliance-repair-egypt", "name_ar": "صيانة جميع الأجهزة المنزلية (ثلاجات، غسالات، بوتاجازات، سخانات، تكييفات، ديب فريزر، ميكروويف)", "virtualPhoneNumbers": ["+1-555-0245"], "testimonials": [
+            {"name": "الحاجة/ زينب محمود", "city": "الإسكندرية", "rating": 4, "quote": "فني صيانة غسالات في سموحة كويس، الغسالة اتصلحت وبقت تمام."}
+        ] },
+        { "slug": "ac-repair-installation-maintenance-egypt", "name_ar": "صيانة وتركيب وشحن فريون وتنظيف جميع أنواع المكيفات (سبليت، شباك، مركزي، كونسيلد)", "virtualPhoneNumbers": ["+1-555-0193"], "testimonials": [] },
+        { "slug": "plumbing-works-egypt", "name_ar": "أعمال سباكة (تأسيس، كشف تسربات المياه إلكترونياً، تركيب أطقم صحية، تسليك مجاري)", "virtualPhoneNumbers": ["+1-555-0194"], "testimonials": [] },
+        { "slug": "electrical-services-egypt", "name_ar": "كهربائي منازل (تأسيس، إصلاح أعطال، تركيب نجف ولوحات، فحص كهرباء)", "virtualPhoneNumbers": ["+1-555-0195"], "testimonials": [] },
+        { "slug": "carpentry-furniture-repair-egypt", "name_ar": "نجار (تصليح وتفصيل أثاث، تركيب أبواب وشبابيك، فك وتركيب غرف نوم)", "virtualPhoneNumbers": ["+1-555-0196"], "testimonials": [] },
+        { "slug": "pest-control-egypt", "name_ar": "مكافحة حشرات وقوارض (صراصير، نمل، بق، فئران، برص، ناموس) للمنازل والشركات والمطاعم", "virtualPhoneNumbers": ["+1-555-0197"], "testimonials": [
+             {"name": "الدكتور/ علي حسن", "city": "المعادي", "rating": 5, "quote": "شركة مكافحة حشرات محترمة في المعادي، قضوا على مشكلة النمل بشكل نهائي وآمن."}
+        ] },
+        { "slug": "landscaping-garden-design-egypt", "name_ar": "تصميم وتنسيق وصيانة حدائق ولاند سكيب وتركيب نوافير وشلالات", "virtualPhoneNumbers": ["+1-555-0198"], "testimonials": [] },
+        { "slug": "furniture-moving-egypt", "name_ar": "شركات نقل أثاث وعفش مع التغليف والفك والتركيب والونش الهيدروليكي", "virtualPhoneNumbers": ["+1-555-0199"], "testimonials": [] },
+        { "slug": "waterproofing-insulation-egypt", "name_ar": "عزل أسطح وحمامات وخزانات (مائي وحراري وصوتي) بأفضل المواد", "virtualPhoneNumbers": ["+1-555-0200"], "testimonials": [] },
+        { "slug": "aluminum-pvc-works-egypt", "name_ar": "أعمال ألوميتال و PVC و UPVC (شبابيك وأبواب ومطابخ وواجهات)", "virtualPhoneNumbers": ["+1-555-0201"], "testimonials": [] },
+        { "slug": "marble-granite-installation-polishing-egypt", "name_ar": "تركيب وجلي وتلميع رخام وجرانيت وبورسلين وسيراميك", "virtualPhoneNumbers": ["+1-555-0246"], "testimonials": [] },
+        { "slug": "security-systems-cctv-egypt", "name_ar": "تركيب كاميرات مراقبة وأنظمة إنذار وأجهزة حضور وانصراف وانتركم", "virtualPhoneNumbers": ["+1-555-0202"], "testimonials": [] },
+        { "slug": "solar-energy-systems-egypt", "name_ar": "تركيب أنظمة طاقة شمسية للمنازل والمزارع والمصانع", "virtualPhoneNumbers": ["+1-555-0203"], "testimonials": [] },
+        { "slug": "smart-home-solutions-egypt", "name_ar": "حلول المنازل الذكية والتحكم عن بعد بالإضاءة والتكييف والأجهزة", "virtualPhoneNumbers": ["+1-555-0204"], "testimonials": [] },
+        { "slug": "elevator-installation-maintenance-egypt", "name_ar": "تركيب وصيانة وتحديث المصاعد والسلالم الكهربائية", "virtualPhoneNumbers": ["+1-555-0247"], "testimonials": [] },
+        { "slug": "swimming-pool-construction-maintenance-egypt", "name_ar": "إنشاء وتشطيب وصيانة وتنظيف حمامات السباحة", "virtualPhoneNumbers": ["+1-555-0248"], "testimonials": [] }
+    ]
+  }
+]
